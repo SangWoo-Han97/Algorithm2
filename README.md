@@ -14,6 +14,10 @@
     <td align="center"><b>BFS</b></td>
     <td align="left">🟡</td>
   </tr>
+  <tr>
+    <td align="center"><b>Greedy</b></td>
+    <td align="left">⚪</td>
+  </tr>
    <tr>
     <td align="center"><b>누적합</b></td>
     <td align="left">⚪</td>
