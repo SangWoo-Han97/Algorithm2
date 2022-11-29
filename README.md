@@ -24,6 +24,6 @@
   </tr>
   <tr>
     <td align="center"><b>Hash</b></td>
-    <td align="left">🟤</td>
+    <td align="left">🟡🟤</td>
   </tr>
 </table>
