@@ -7,11 +7,15 @@
 
 <table>
   <tr>
-    <td align="center"><b>투포인터</b></td>
-    <td align="left">🟡</td>
+    <td align="center"><b>구현</b></td>
+    <td align="left">🟡🟡</td>
   </tr>
   <tr>
     <td align="center"><b>BFS</b></td>
+    <td align="left">🟡</td>
+  </tr>
+  <tr>
+    <td align="center"><b>투포인터</b></td>
     <td align="left">🟡</td>
   </tr>
   <tr>
