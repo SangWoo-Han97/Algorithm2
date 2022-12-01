@@ -30,4 +30,8 @@
     <td align="center"><b>Hash</b></td>
     <td align="left">🟡🟤</td>
   </tr>
+  <tr>
+    <td align="center"><b>스택, 큐</b></td>
+    <td align="left">⚪⚪</td>
+  </tr>
 </table>
