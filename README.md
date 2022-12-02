@@ -32,6 +32,6 @@
   </tr>
   <tr>
     <td align="center"><b>스택, 큐</b></td>
-    <td align="left">⚪⚪</td>
+    <td align="left">⚪⚪⚪</td>
   </tr>
 </table>
