@@ -31,6 +31,10 @@
     <td align="left">🟡🟤</td>
   </tr>
   <tr>
+    <td align="center"><b>Graph</b></td>
+    <td align="left">🟡</td>
+  </tr>
+  <tr>
     <td align="center"><b>스택, 큐</b></td>
     <td align="left">⚪⚪⚪⚪</td>
   </tr>
